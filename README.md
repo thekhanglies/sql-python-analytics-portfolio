@@ -4,6 +4,7 @@
 **Goal:** Build SQL fluency on a structured sample dataset, then apply every skill to a real-world e-commerce dataset and answer genuine business questions.
 
 For more details, please check out my website by clicking these two links:
+
 https://app.notion.com/p/Olist-Brazilian-E-Commerce-Python-Visualization-Layer-3ab6f1589ccd80279a3ecb83a22fb08f?source=copy_link
 https://app.notion.com/p/Olist-Brazilian-E-Commerce-Python-Visualization-Layer-3ab6f1589ccd80279a3ecb83a22fb08f
 
