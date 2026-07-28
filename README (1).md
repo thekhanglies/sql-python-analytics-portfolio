@@ -16,12 +16,8 @@ SQL-based analysis of the same dataset into Python.
   consistent with its status as Brazil's largest economic hub.
 
 ## Charts
+https://zenith-split-820.notion.site/Olist-Brazilian-E-Commerce-Python-Visualization-Layer-3ab6f1589ccd80279a3ecb83a22fb08f?source=copy_link
 
-| | |
-|---|---|
-| ![Monthly orders & revenue](charts/01_monthly_orders_revenue.png) | ![Delivery delay distribution](charts/02_delivery_delay_distribution.png) |
-| ![Review score vs delivery](charts/03_review_score_vs_delivery.png) | ![Top categories by revenue](charts/04_top_categories_revenue.png) |
-| ![Payment type share](charts/05_payment_type_share.png) | ![Revenue by state](charts/06_revenue_by_state.png) |
 
 ## Project structure
 
