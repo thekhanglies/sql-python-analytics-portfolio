@@ -1,8 +1,11 @@
-# SQL Analytics Portfolio - From Practice to Production
+# SQL & Python Analytics Portfolio - From Practice to Production
 **NOTE:** AI was used for scaffolding/planning this portfolio, not for the conclusions themselves.
-
 **Tools:** SQL (Snowflake), Python (Pandas, Matplotlib), SQLLite  
 **Goal:** Build SQL fluency on a structured sample dataset, then apply every skill to a real-world e-commerce dataset and answer genuine business questions.
+
+For more details, please check out my website by clicking these two links:
+https://app.notion.com/p/Olist-Brazilian-E-Commerce-Python-Visualization-Layer-3ab6f1589ccd80279a3ecb83a22fb08f?source=copy_link
+https://app.notion.com/p/Olist-Brazilian-E-Commerce-Python-Visualization-Layer-3ab6f1589ccd80279a3ecb83a22fb08f
 
 This portfolio has two stages - intentionally. Stage 1 is where the syntax becomes reflexive. Stage 2 is where it becomes useful.
 
